@@ -1,0 +1,24 @@
+# Site settings
+title: SportsBoard @ ABCA 2017 in 360
+email: csaba.toth@sportsboard.io
+description: 360 videos and photos taken at the ABCA 2017
+baseurl: "/ABCA2017" # the subpath of your site, e.g. /blog/
+url: "https://sportsboard.github.io" # the base hostname & protocol for your site
+copyright: '&copy; 2017 SportsBoard'
+
+# Links
+sportsboard: "https://sportsboard.io"
+blog: "http://sportsboard.io/sportsboard-hits-the-road-to-abca/"
+twitter: "https://twitter.com/sportsboard"
+facebook: "https://www.facebook.com/sportsboard"
+instagram: "https://www.instagram.com/sportsboard/"
+
+# Build settings
+markdown: kramdown
+
+# Custom theme could be generated at: https://getmdl.io/customize/index.html
+material_theme: red-green
+
+# Google Analytics account ID (UA-XXXXXXXX-X)
+
+google-analytics-ua: UA-58569239-4
