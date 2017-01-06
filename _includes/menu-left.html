@@ -2,12 +2,15 @@
     <span class="mdl-layout-title">360 Tour</span>
     <nav class="mdl-navigation">
         <a class="mdl-navigation__link" href="{{ site.baseurl }}/">Home</a>
-        <a class="mdl-navigation__link" href="{{ site.devfest }}/">ValleyDevFest</a>
+        <a class="mdl-navigation__link" href="{{ site.sportsboard }}/">SportsBoard</a>
         {% for post in site.posts %}
         {% if post.title %}
         <a class="mdl-navigation__link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         {% endif %}
         {% endfor %}
-        <a class="mdl-navigation__link" href="{{ site.bitwise }}/">Bitwise</a>
+        <a class="mdl-navigation__link" href="{{ site.blog }}/">ABCA blog</a>
+        <a class="mdl-navigation__link" href="{{ site.twitter }}/">Twiter</a>
+        <a class="mdl-navigation__link" href="{{ site.facebook }}/">Facebook</a>
+        <a class="mdl-navigation__link" href="{{ site.instagram }}/">Instagram</a>
     </nav>
 </div>
