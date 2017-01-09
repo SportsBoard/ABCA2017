@@ -5,6 +5,7 @@ date: 2017-01-05 9:00:00
 categories: vrview
 image_url: rainy_morning.jpg
 is_image_360: true
+default_yaw: 0
 thumbnail: rainy_morning_th.jpg
 youtube_id: eyZ_5KXMJfc
 description: Rainy morning gathering at the Red Lion hotel.

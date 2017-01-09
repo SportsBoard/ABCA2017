@@ -5,7 +5,7 @@ date: 2017-01-07 13:00:00
 categories: vrview
 image_url: comfortable_rv.jpg
 is_image_360: true
-default_yaw: 270
+default_yaw: 200
 thumbnail: comfortable_rv_th.jpg
 youtube_id: LkFjLbETENo
 description: Comfortable RV.
