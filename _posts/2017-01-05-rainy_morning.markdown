@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Rainy Morning"
-date:   2017-01-05 9:00:00
+title: "Rainy Morning"
+date: 2017-01-05 9:00:00
 categories: vrview
-image: rainy_morning.jpg
+image_url: rainy_morning.jpg
+is_image_360: true
 thumbnail: rainy_morning_th.jpg
+youtube_id: eyZ_5KXMJfc
 description: Rainy morning gathering at the Red Lion hotel.
 ---
-Rain helps the drought though.
+Rainy morning gathering at the Red Lion hotel, very close to Disney Land and the Anaheim Convention Center.
+Little inconvenient wather for Los Angeles but rain at least alleviates California's drought situation.
