@@ -5,6 +5,7 @@ date: 2017-01-05 09:15:00
 categories: vrview
 image_url: popcorn_machine.jpg
 is_image_360: true
+default_yaw: 70
 thumbnail: popcorn_machine_th.jpg
 youtube_id: kYxVgK2erZI
 description: Popcorn Machine Top

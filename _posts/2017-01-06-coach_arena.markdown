@@ -5,6 +5,7 @@ date: 2017-01-06 12:30:00
 categories: vrview
 image_url: coach_arena.jpg
 is_image_360: true
+default_yaw: 100
 thumbnail: coach_arena_th.jpg
 youtube_id: RYCXrbBcmE0
 description: Coach Arena.
